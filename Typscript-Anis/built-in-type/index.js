@@ -1,0 +1,10 @@
+var id;
+var userId;
+var firstName;
+var lastName;
+var isActivated;
+userId = 101;
+firstName = "Al";
+lastName = "Mahfuz";
+isActivated = true;
+console.log("Your id: ".concat(userId, ", userName: ").concat(firstName, " ").concat(lastName, ", account activated ").concat(isActivated));
